@@ -1,0 +1,33 @@
+<ion-menu contentId="main-content">
+  <ion-header>
+    <ion-toolbar color="dark">
+      <ion-title>Funções</ion-title>
+    </ion-toolbar>
+  </ion-header>
+  <ion-content>
+    <ion-label *ngIf="logado.tipo == 0">
+      <ion-button shape="round" fill="clear" routerLink="/alu-notas" text-color="pink
+    ">Editar notas</ion-button>
+    </ion-label>
+    <ion-label *ngIf="logado.tipo == 1">
+      <ion-button shape="round" fill="clear" routerLink="/cur-gerenciar" text-color="pink
+    ">Gerenciar alunos</ion-button>
+    </ion-label>
+  </ion-content>
+</ion-menu>
+
+<ion-header>
+  <ion-toolbar color="dark">
+    <ion-buttons slot="start">
+      <ion-menu-button></ion-menu-button>
+    </ion-buttons>
+    <ion-buttons slot="end">
+      <ion-button>{{logado.nome}}</ion-button>
+      <ion-button routerLink="/login">Sair</ion-button>
+    </ion-buttons>
+    <ion-title>Verpi</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content id="main-content">
+</ion-content>

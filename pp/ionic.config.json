@@ -1,0 +1,7 @@
+{
+  "name": "verpi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

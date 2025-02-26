@@ -1,0 +1,32 @@
+<ion-header [translucent]="true">
+  <ion-toolbar color="dark">
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="/inicio"></ion-back-button>
+    </ion-buttons>
+    <ion-title>Notas</ion-title>
+    <ion-buttons slot="end">
+      <ion-button>{{logado.nome}}</ion-button>
+      <ion-button routerLink="/login">Sair</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true" class="ion-padding">
+
+  <form [formGroup]="formGroup" (ngSubmit)="salvar()">
+    <ion-item>
+      <ion-label position="stacked">Nota ano 1</ion-label>
+      <ion-input type="text" formControlName="nota1"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="stacked">Nota ano 2</ion-label>
+      <ion-input type="text" formControlName="nota2"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label position="stacked">Nota ano 3</ion-label>
+      <ion-input type="text" formControlName="nota3"></ion-input>
+    </ion-item>
+    <ion-button type="submit" expand="block" color="danger" [disabled]="!formGroup.valid">Salvar</ion-button>
+  </form>
+
+</ion-content>

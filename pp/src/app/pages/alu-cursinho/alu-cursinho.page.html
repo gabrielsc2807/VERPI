@@ -1,0 +1,30 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button defaultHref="/inicio"></ion-back-button>
+    </ion-buttons>
+    <ion-title>Adicionar alunos ao Cursinho</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <form [formGroup]="formGroup">
+    <ion-row>
+      <ion-col>
+        <ion-item>
+          <ion-select label="Aluno" formControlName = "usuario">
+            <ion-item-sliding *ngFor="let usuario of usuarios">
+              <ion-select-option value={{usuario.id}}>{{usuario.nome}}</ion-select-option>
+          </ion-item-sliding>
+          </ion-select>
+        </ion-item>
+      </ion-col>
+    </ion-row>
+    
+    <ion-row>
+      <ion-col>
+        <ion-button type="submit" expand="block" color="dark" [disabled]="!formGroup.valid">Salvar</ion-button>
+      </ion-col>
+    </ion-row>
+  </form>
+</ion-content>
