@@ -1,0 +1,641 @@
+{
+    "Nome": "JUIZ DE FORA",
+    "Cursos": [
+        {
+            "Nome": "ADMINISTRACAO (integral)",
+            "Grupos": [
+                {
+                    "Nome": "Grupo A",
+                    "DataAlunos": [
+                        {
+                            "classificacao": "2",
+                            "inscricao": "06965-22",
+                            "modulosPISM": [
+                                {
+                                    "id": 1,
+                                    "notaTotal": 34,
+                                    "notaTotalPonderada": 68,
+                                    "provas": [
+                                        {
+                                            "conteudo": "LINGUA PORTUGUESA",
+                                            "id": 1657,
+                                            "nota": "4",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "MATEMATICA",
+                                            "id": 1659,
+                                            "nota": "0",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "LITERATURA",
+                                            "id": 1658,
+                                            "nota": "4",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "HISTORIA",
+                                            "id": 1667,
+                                            "nota": "3",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "GEOGRAFIA",
+                                            "id": 1666,
+                                            "nota": "3",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "FISICA",
+                                            "id": 1663,
+                                            "nota": "3",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "QUIMICA",
+                                            "id": 1662,
+                                            "nota": "1",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "BIOLOGIA",
+                                            "id": 1660,
+                                            "nota": "1",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "LINGUA PORTUGUESA",
+                                            "id": 1664,
+                                            "nota": "5,75",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "MATEMATICA",
+                                            "id": 1669,
+                                            "nota": "0,00",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "LITERATURA",
+                                            "id": 1655,
+                                            "nota": "5,00",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "HISTORIA",
+                                            "id": 1656,
+                                            "nota": "0,75",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "GEOGRAFIA",
+                                            "id": 1654,
+                                            "nota": "3,00",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "FISICA",
+                                            "id": 1665,
+                                            "nota": "0,00",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "QUIMICA",
+                                            "id": 1661,
+                                            "nota": "0,50",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "BIOLOGIA",
+                                            "id": 1668,
+                                            "nota": "0,00",
+                                            "tipo": "Discursiva"
+                                        }
+                                    ],
+                                    "situacao": "",
+                                    "title": "Modulo I do PISM"
+                                },
+                                {
+                                    "id": 2,
+                                    "notaTotal": 42,
+                                    "notaTotalPonderada": 126,
+                                    "provas": [
+                                        {
+                                            "conteudo": "LINGUA PORTUGUESA",
+                                            "id": 1811,
+                                            "nota": "3",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "MATEMATICA",
+                                            "id": 1813,
+                                            "nota": "1",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "LITERATURA",
+                                            "id": 1812,
+                                            "nota": "3",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "HISTORIA",
+                                            "id": 1821,
+                                            "nota": "4",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "GEOGRAFIA",
+                                            "id": 1820,
+                                            "nota": "3",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "FISICA",
+                                            "id": 1817,
+                                            "nota": "1",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "QUIMICA",
+                                            "id": 1816,
+                                            "nota": "1",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "BIOLOGIA",
+                                            "id": 1814,
+                                            "nota": "1",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "LINGUA PORTUGUESA",
+                                            "id": 1818,
+                                            "nota": "8,00",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "MATEMATICA",
+                                            "id": 1823,
+                                            "nota": "5,00",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "LITERATURA",
+                                            "id": 1809,
+                                            "nota": "5,25",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "HISTORIA",
+                                            "id": 1810,
+                                            "nota": "4,00",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "GEOGRAFIA",
+                                            "id": 1808,
+                                            "nota": "0,00",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "FISICA",
+                                            "id": 1819,
+                                            "nota": "0,25",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "QUIMICA",
+                                            "id": 1815,
+                                            "nota": "1,00",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "BIOLOGIA",
+                                            "id": 1822,
+                                            "nota": "1,50",
+                                            "tipo": "Discursiva"
+                                        }
+                                    ],
+                                    "situacao": "",
+                                    "title": "Modulo II do PISM"
+                                },
+                                {
+                                    "id": 3,
+                                    "notaTotal": 39.75,
+                                    "notaTotalPonderada": 198.75,
+                                    "provas": [
+                                        {
+                                            "conteudo": "LINGUA PORTUGUESA",
+                                            "id": 1956,
+                                            "nota": "1",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "MATEMATICA",
+                                            "id": 1959,
+                                            "nota": "3",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "LITERATURA",
+                                            "id": 1957,
+                                            "nota": "4",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "HISTORIA",
+                                            "id": 1973,
+                                            "nota": "2",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "GEOGRAFIA",
+                                            "id": 1972,
+                                            "nota": "2",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "FISICA",
+                                            "id": 1970,
+                                            "nota": "1",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "QUIMICA",
+                                            "id": 1971,
+                                            "nota": "2",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "BIOLOGIA",
+                                            "id": 1958,
+                                            "nota": "1",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "LINGUA PORTUGUESA",
+                                            "id": 1962,
+                                            "nota": "8,25",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "MATEMATICA",
+                                            "id": 1961,
+                                            "nota": "5,00",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "HISTORIA",
+                                            "id": 1981,
+                                            "nota": "2,75",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "GEOGRAFIA",
+                                            "id": 1982,
+                                            "nota": "4,00",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "FILOSOFIA",
+                                            "id": 1980,
+                                            "nota": "1,00",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "SOCIOLOGIA",
+                                            "id": 1964,
+                                            "nota": "2,75",
+                                            "tipo": "Discursiva"
+                                        }
+                                    ],
+                                    "situacao": "",
+                                    "title": "Modulo III do PISM"
+                                }
+                            ],
+                            "motivoExclusao": null,
+                            "nome": "MARIA LUIZA COSTA SILVA",
+                            "semestre": "1o Semestre",
+                            "totalPontos": 392.75
+                        },
+                        {
+                            "classificacao": "1",
+                            "inscricao": "08822-22",
+                            "modulosPISM": [
+                                {
+                                    "id": 1,
+                                    "notaTotal": 44.25,
+                                    "notaTotalPonderada": 88.5,
+                                    "provas": [
+                                        {
+                                            "conteudo": "LINGUA PORTUGUESA",
+                                            "id": 1657,
+                                            "nota": "5",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "MATEMATICA",
+                                            "id": 1659,
+                                            "nota": "1",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "LITERATURA",
+                                            "id": 1658,
+                                            "nota": "3",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "HISTORIA",
+                                            "id": 1667,
+                                            "nota": "4",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "GEOGRAFIA",
+                                            "id": 1666,
+                                            "nota": "4",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "FISICA",
+                                            "id": 1663,
+                                            "nota": "1",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "QUIMICA",
+                                            "id": 1662,
+                                            "nota": "3",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "BIOLOGIA",
+                                            "id": 1660,
+                                            "nota": "2",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "LINGUA PORTUGUESA",
+                                            "id": 1664,
+                                            "nota": "6,75",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "MATEMATICA",
+                                            "id": 1669,
+                                            "nota": "0,00",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "LITERATURA",
+                                            "id": 1655,
+                                            "nota": "5,75",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "HISTORIA",
+                                            "id": 1656,
+                                            "nota": "3,25",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "GEOGRAFIA",
+                                            "id": 1654,
+                                            "nota": "5,50",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "FISICA",
+                                            "id": 1665,
+                                            "nota": "0,00",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "QUIMICA",
+                                            "id": 1661,
+                                            "nota": "0,00",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "BIOLOGIA",
+                                            "id": 1668,
+                                            "nota": "0,00",
+                                            "tipo": "Discursiva"
+                                        }
+                                    ],
+                                    "situacao": "",
+                                    "title": "Modulo I do PISM"
+                                },
+                                {
+                                    "id": 2,
+                                    "notaTotal": 46.5,
+                                    "notaTotalPonderada": 139.5,
+                                    "provas": [
+                                        {
+                                            "conteudo": "LINGUA PORTUGUESA",
+                                            "id": 1811,
+                                            "nota": "4",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "MATEMATICA",
+                                            "id": 1813,
+                                            "nota": "2",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "LITERATURA",
+                                            "id": 1812,
+                                            "nota": "4",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "HISTORIA",
+                                            "id": 1821,
+                                            "nota": "4",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "GEOGRAFIA",
+                                            "id": 1820,
+                                            "nota": "1",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "FISICA",
+                                            "id": 1817,
+                                            "nota": "0",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "QUIMICA",
+                                            "id": 1816,
+                                            "nota": "1",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "BIOLOGIA",
+                                            "id": 1814,
+                                            "nota": "3",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "LINGUA PORTUGUESA",
+                                            "id": 1818,
+                                            "nota": "8,00",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "MATEMATICA",
+                                            "id": 1823,
+                                            "nota": "1,50",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "LITERATURA",
+                                            "id": 1809,
+                                            "nota": "5,50",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "HISTORIA",
+                                            "id": 1810,
+                                            "nota": "6,25",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "GEOGRAFIA",
+                                            "id": 1808,
+                                            "nota": "3,75",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "FISICA",
+                                            "id": 1819,
+                                            "nota": "0,00",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "QUIMICA",
+                                            "id": 1815,
+                                            "nota": "0,00",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "BIOLOGIA",
+                                            "id": 1822,
+                                            "nota": "2,50",
+                                            "tipo": "Discursiva"
+                                        }
+                                    ],
+                                    "situacao": "",
+                                    "title": "Modulo II do PISM"
+                                },
+                                {
+                                    "id": 3,
+                                    "notaTotal": 58.75,
+                                    "notaTotalPonderada": 293.75,
+                                    "provas": [
+                                        {
+                                            "conteudo": "LINGUA PORTUGUESA",
+                                            "id": 1956,
+                                            "nota": "2",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "MATEMATICA",
+                                            "id": 1959,
+                                            "nota": "0",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "LITERATURA",
+                                            "id": 1957,
+                                            "nota": "3",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "HISTORIA",
+                                            "id": 1973,
+                                            "nota": "3",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "GEOGRAFIA",
+                                            "id": 1972,
+                                            "nota": "4",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "FISICA",
+                                            "id": 1970,
+                                            "nota": "1",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "QUIMICA",
+                                            "id": 1971,
+                                            "nota": "2",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "BIOLOGIA",
+                                            "id": 1958,
+                                            "nota": "4",
+                                            "tipo": "Objetiva"
+                                        },
+                                        {
+                                            "conteudo": "LINGUA PORTUGUESA",
+                                            "id": 1962,
+                                            "nota": "9,75",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "MATEMATICA",
+                                            "id": 1961,
+                                            "nota": "9,00",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "HISTORIA",
+                                            "id": 1981,
+                                            "nota": "7,00",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "GEOGRAFIA",
+                                            "id": 1982,
+                                            "nota": "8,00",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "FILOSOFIA",
+                                            "id": 1980,
+                                            "nota": "0,50",
+                                            "tipo": "Discursiva"
+                                        },
+                                        {
+                                            "conteudo": "SOCIOLOGIA",
+                                            "id": 1964,
+                                            "nota": "5,50",
+                                            "tipo": "Discursiva"
+                                        }
+                                    ],
+                                    "situacao": "",
+                                    "title": "Modulo III do PISM"
+                                }
+                            ],
+                            "motivoExclusao": null,
+                            "nome": "WEIDNER SPAGNOL RIBEIRO",
+                            "semestre": "1o Semestre",
+                            "totalPontos": 521.75
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
